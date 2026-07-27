@@ -1,4 +1,6 @@
 
+// Bisection Method
+
 #include <stdio.h>
 #include <math.h>
 
